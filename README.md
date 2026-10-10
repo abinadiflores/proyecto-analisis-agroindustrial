@@ -28,4 +28,4 @@ Identificar patrones de producción, ventas y utilización de materias primas me
 5. Consultar el informe para conocer los criterios de limpieza y los resultados obtenidos.
 
 ## Fuente de datos
-Plataforma Nacional de Datos Abiertos del Perú: https://www.datosabiertos.gob.pe/
+Plataforma Nacional de Datos Abiertos del Perú: https://www.datosabiertos.gob.pe/](https://www.datosabiertos.gob.pe/dataset/midagri-07-actividad-agroindustrial-ministerio-de-desarrollo-agrario-y-riego
