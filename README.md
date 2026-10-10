@@ -8,11 +8,8 @@ Identificar patrones de producción, ventas y utilización de materias primas me
 
 ## Herramientas utilizadas
 - Power BI
-- Power Query (lenguaje M)
+- Power Query
 - DAX
-- Python
-- Pandas
-- Matplotlib
 
 ## Estructura del proyecto
 - `datos/`: conjunto de datos utilizado.
