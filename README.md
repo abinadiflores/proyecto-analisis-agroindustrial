@@ -14,7 +14,6 @@ Identificar patrones de producción, ventas y utilización de materias primas me
 ## Estructura del proyecto
 - `datos/`: conjunto de datos utilizado.
 - `powerbi/`: panel de control y modelo de Power BI.
-- `scripts/`: código y consultas de transformación.
 - `informe/`: informe académico final.
 
 ## Reproducción del análisis
